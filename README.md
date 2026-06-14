@@ -1,21 +1,177 @@
-# 💫 About Me:
-About Me: Data Analyst at BDR Group<br>🔭 I'm currently working on: Developing automated reporting dashboards and optimizing SQL queries to improve data retrieval efficiency for the BDR Group's key business units.<br><br>🤝 I'm looking to collaborate on: Projects involving advanced data visualization (e.g., D3.js, interactive dashboards) or predictive modeling using Python/R to solve real-world business challenges.<br><br>🏆 I'm looking for help with: Mastering advanced machine learning algorithms like XGBoost and understanding their implementation in production environments.<br><br>🌱 I'm currently learning: The nuances of cloud-based data warehousing (specifically Google BigQuery/AWS Redshift) and expanding my Python skills with libraries like Pandas and Scikit-learn.<br><br>⚡ Ask me about: Anything related to data cleaning, ETL pipelines, spreadsheet automation, or translating complex data findings into actionable business insights.<br><br>🔥 Fun fact: I can spot an outlier in a dataset faster than I can find my keys, and I secretly love writing complex regular expressions!
+# 👋 Hi, I'm Karan Singh
 
+## 📊 Business & Data Analyst
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-singh-17263939b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karansinghcloud@gmail.com) 
+Turning raw data into business decisions through **SQL, Python, Excel, Power BI and AI Automation.**
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karansinghcloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=karansinghcloud&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karansinghcloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karansinghcloud&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔹 Business Analytics  
+🔹 Data Analytics  
+🔹 Dashboard Development  
+🔹 SQL Optimization  
+🔹 ERP & Construction Analytics  
+🔹 AI Workflow Automation
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karansinghcloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🔭 **Currently Working On**
+
+Building automated reporting systems and business dashboards at **BDR Group** using SQL, Excel, Google Sheets and Power BI.
+
+🤝 **Open To Collaborate**
+
+- Data Analytics Projects
+- SQL Projects
+- Power BI Dashboards
+- Business Intelligence
+- AI Automation
+- Construction ERP Analytics
+
+🌱 **Currently Learning**
+
+- Advanced SQL
+- Data Engineering
+- AWS
+- Google Cloud Platform
+- dbt
+- ETL Pipelines
+- Machine Learning for Analytics
+
+💬 **Ask Me About**
+
+- SQL
+- Excel Automation
+- Power BI
+- Python
+- Data Cleaning
+- Dashboard Design
+- Google Sheets
+- Business Analytics
+
+⚡ **Fun Fact**
+
+I enjoy converting complex business problems into automated data solutions.
+
+---
+
+# 🚀 Featured Projects
+
+## 📌 Ola Ride Analytics
+SQL + Power BI
+
+- Ride Success Rate Analysis
+- Customer Behaviour
+- Revenue Dashboard
+- Cancellation Analysis
+
+---
+
+## 📌 E-Commerce Sales Analytics
+Google Sheets + Looker Studio
+
+- Product Performance
+- Order Status Tracking
+- Sales Dashboard
+- Regional Analysis
+
+---
+
+## 📌 Netflix Movies Analytics
+Python + Pandas + Seaborn
+
+- Genre Analysis
+- Popularity Trends
+- Data Cleaning
+- EDA & Visualization
+
+---
+
+## 📌 Construction ERP Analytics
+Advanced SQL + Excel + Power BI
+
+- Vendor Performance
+- Material Tracking
+- Budget Monitoring
+- Procurement Analytics
+- Site Progress
+- KPI Dashboard
+
+---
+
+## 📌 AI Resume & Career Agent
+
+- Resume Optimization
+- ATS Score Improvement
+- Career Tracker
+- AI Automation
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+
+### Analytics
+
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge)
+![Looker Studio](https://img.shields.io/badge/LookerStudio-blue?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/GoogleSheets-brightgreen?style=for-the-badge)
+
+### Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+
+---
+
+# 📂 Portfolio Repositories
+
+| Project | Tools |
+|----------|----------------|
+| Ola Ride Analytics | SQL + Power BI |
+| E-Commerce Analytics | Looker Studio |
+| Netflix Analytics | Python |
+| Construction ERP Analytics | SQL + BI |
+| Vendor Analytics | SQL |
+| Budget Analysis | Excel |
+| AI Resume Agent | Python |
+| SQL Interview Questions | SQL |
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn
+
+📧 karansinghcloud@gmail.com
+
+💻 GitHub
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=karansinghcloud&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=karansinghcloud&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karansinghcloud&layout=compact&theme=github_dark)
+
+---
+
+## 📌 Profile Keywords
+
+Data Analyst • Business Analyst • SQL Developer • Power BI Developer • Python Developer • Business Intelligence • Data Visualization • AI Automation • ERP Analytics • Dashboard Developer

@@ -1,160 +1,156 @@
-# Hi, I'm Karan Singh 👋
+ <div align="center">
 
-### Business & Data Analyst | SQL | Excel | Tableau | Power BI | Python
+# Karan Singh
 
-I am a Business Cum Data Analyst at **BDR Builders and Developers Pvt. Ltd.**, working on operational analytics, MIS reporting, KPI monitoring, data analysis and business reporting.
+### Business & Data Analyst | Business Intelligence | Analytics & Automation
 
-I work with business and operational data to identify trends, improve reporting visibility and support data-driven decisions. I also build practical applications and workflow management systems focused on construction operations, document management and business processes.
+**Turning Business Data into Insights. Building Solutions for Real-World Problems.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karan-singh-17263939b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/karansinghcloud)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karansinghcloud@gmail.com)
+
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
+
+I'm a **Business Cum Data Analyst at BDR Builders and Developers Pvt. Ltd.**, working across business operations, construction analytics, MIS reporting and performance monitoring.
+
+My work combines data analysis, business intelligence and practical application development to improve reporting visibility and support data-driven decisions.
 
 - 💼 **Current Role:** Business Cum Data Analyst
 - 🏢 **Organization:** BDR Builders and Developers Pvt. Ltd.
 - 📍 **Location:** South Delhi, India
-- 📊 **Focus Areas:** Data Analytics, Business Intelligence, MIS Reporting and Operational Analytics
-- 🏗️ **Additional Interest:** ERP Systems, Database-Driven Applications and Workflow Management
-
-### What I Work On
-
-- SQL-based data analysis and reporting
-- Advanced Excel and Google Sheets
-- Dashboard development and KPI monitoring
-- Data cleaning and exploratory data analysis
-- Construction and procurement analytics
-- Business process and workflow applications
-- Operational reporting and data management
+- 📊 **Core Focus:** SQL, Business Intelligence, MIS & Operational Analytics
+- 🏗️ **Additional Focus:** ERP Systems, Workflow Automation & Database Applications
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-**Data Analysis & Querying**
-- SQL / MySQL
-- Advanced Excel
-- Google Sheets
-- Data Cleaning and Validation
-- Exploratory Data Analysis (EDA)
+### Data Analytics & Business Intelligence
 
-**Business Intelligence & Visualization**
-- Tableau
-- Power BI
-- Looker Studio
-- KPI Dashboards
-- MIS Reporting
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-**Programming & Libraries**
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+### Python & Data Libraries
 
-**Application & Database Development**
-- JavaScript
-- Google Apps Script
-- React
-- TypeScript
-- Python / FastAPI
-- Node.js
-- PostgreSQL
-- SQLite
-- Prisma
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+### Application Development & Databases
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 1. Construction ERP Analytics System
-**SQL | Advanced Excel | Tableau**
+### 📊 Data Analytics & Business Intelligence
 
-- Designed a 20-table ERP-style data model covering projects, procurement, vendors, inventory, manpower, budgets and operational KPIs.
-- Used SQL and Excel for data organization and analysis.
-- Developed Tableau visual reports to monitor construction operations and project performance.
+<details open>
+<summary><strong>01. Construction ERP Analytics System</strong> · SQL · Advanced Excel · Tableau</summary>
 
-### 2. Ola Rides Data Analysis
-**SQL | Power BI**
+- Designed a 20-table ERP-style data model covering projects, procurement, vendors, inventory, manpower and budgets.
+- Used SQL and Excel for data organization, validation and analysis.
+- Developed Tableau visual reports for construction operations and project performance.
 
-- Analyzed ride-booking data to identify booking trends, cancellations, vehicle performance, revenue patterns and customer ratings.
+</details>
+
+<details open>
+<summary><strong>02. Ola Rides Data Analysis</strong> · SQL · Power BI</summary>
+
+- Analyzed ride-booking data to explore booking trends, cancellations, vehicle performance, revenue and customer ratings.
 - Developed dashboards to monitor ride volume, booking status and operational performance.
 
-Repository: [Ola Data Analytics](https://github.com/karansinghcloud/Ola-Data-Analytics)
+🔗 [View Repository](https://github.com/karansinghcloud/Ola-Data-Analytics)
 
-### 3. E-Commerce Product & Sales Analysis
-**Google Sheets | Pivot Tables | Looker Studio**
+</details>
+
+<details>
+<summary><strong>03. E-Commerce Product & Sales Analysis</strong> · Google Sheets · Pivot Tables · Looker Studio</summary>
 
 - Analyzed e-commerce order lifecycle, product demand, sales trends and state-wise performance.
-- Developed interactive dashboards to visualize product performance and order-related insights.
+- Created interactive dashboards to explore product performance and order-related insights.
 
-### 4. Netflix Movies & Genre Trends Analysis
-**Python | Pandas | NumPy | Matplotlib | Seaborn**
+</details>
 
-- Performed exploratory data analysis on 9,000+ movie records.
+<details>
+<summary><strong>04. Netflix Movies & Genre Trends Analysis</strong> · Python · Pandas · NumPy · Matplotlib · Seaborn</summary>
+
+- Performed exploratory analysis on 9,000+ movie records.
 - Applied data cleaning, feature analysis and visualization.
 - Examined genre popularity, ratings and release-year trends.
 
-Repository: [Netflix Movies Data Analysis](https://github.com/karansinghcloud/Netflix-Movies-Data-Analysis-Python-Pandas-Seaborn-)
+🔗 [View Repository](https://github.com/karansinghcloud/Netflix-Movies-Data-Analysis-Python-Pandas-Seaborn-)
 
----
+</details>
 
-## Application Development Projects
+### ⚙️ Application Development
 
-### 5. ANUBIS – Construction ERP & Workflow Management System
-**Google Apps Script | Google Sheets | JavaScript**
+<details open>
+<summary><strong>05. ANUBIS – Construction ERP & Workflow Management System</strong> · Google Apps Script · Google Sheets · JavaScript</summary>
 
-- Developed a construction workflow management application for projects, tasks, issues, MOM, drawing requests, vendors, approvals and document tracking.
+- Developed a construction workflow management application covering projects, tasks, issues, MOM, drawing requests, vendors and approvals.
 - Designed connected work records, assignment workflows and controlled sharing features.
-- Worked on Google Sheets-based data persistence and operational reporting workflows.
+- Worked on Google Sheets-based persistence and operational reporting workflows.
 
-### 6. Court Order Manager
-**Python | FastAPI | React | TypeScript | PostgreSQL**
+</details>
+
+<details>
+<summary><strong>06. Court Order Manager</strong> · Python · FastAPI · React · TypeScript · PostgreSQL</summary>
 
 - Developing a local case and court-order management application.
 - Designed workflows for case records, document imports, search and information retrieval.
 - Working on database-backed document management, duplicate detection and archival functionality.
 
-*Development project. Final application verification is in progress.*
+*Development project – final application verification in progress.*
 
-### 7. DrawCore – Drawing Coordination MVP
-**Node.js | Prisma | SQLite**
+</details>
+
+<details>
+<summary><strong>07. DrawCore – Drawing Coordination MVP</strong> · Node.js · Prisma · SQLite</summary>
 
 - Built a drawing coordination MVP supporting PDF and image imports.
 - Implemented trade-wise annotation layers, drawing records and vendor work assignments.
 - Worked on normalized drawing coordinates, data persistence and drawing navigation.
 
+</details>
+
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
-### Business Cum Data Analyst
-**BDR Builders and Developers Pvt. Ltd.**  
-July 2022 – Present | South Delhi, India
+**Business Cum Data Analyst**  
+BDR Builders and Developers Pvt. Ltd.  
+*July 2022 – Present | South Delhi, India*
 
 - Analyze construction, procurement, finance and operational data.
 - Develop SQL queries and management reports.
 - Maintain dashboards for project tracking, inventory, vendors and budgets.
 - Monitor KPIs including cost variance, vendor performance and project timelines.
-- Clean and validate data from multiple sources.
-- Coordinate with technical teams and operations stakeholders.
+- Perform data cleaning and validation across multiple sources.
+- Coordinate with technical teams and operational stakeholders.
 
 ---
 
-## GitHub Repositories
-
-| Project | Technologies |
-|---|---|
-| [Ola Data Analytics](https://github.com/karansinghcloud/Ola-Data-Analytics) | SQL, Power BI |
-| [Netflix Movies Analysis](https://github.com/karansinghcloud/Netflix-Movies-Data-Analysis-Python-Pandas-Seaborn-) | Python, Pandas, Seaborn |
-| Construction ERP Analytics | SQL, Excel, Tableau |
-| ANUBIS ERP | Google Apps Script, Google Sheets |
-| Court Order Manager | Python, FastAPI, React, PostgreSQL |
-| DrawCore | Node.js, Prisma, SQLite |
-| E-Commerce Analytics | Google Sheets, Looker Studio |
-
----
-
-## Certifications
+## 🎓 Certifications
 
 - Data Analysis with Python – IBM / Cognitive Class
 - Data Science 101 – IBM / Cognitive Class
@@ -165,12 +161,30 @@ July 2022 – Present | South Delhi, India
 
 ---
 
-## Connect With Me
+## 📈 GitHub Overview
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/karan-singh-17263939b/)
-- 💻 [GitHub](https://github.com/karansinghcloud)
-- 📧 [Email](mailto:karansinghcloud@gmail.com)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=karansinghcloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansinghcloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=karansinghcloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-**My Focus:** Building practical analytics solutions, business intelligence dashboards and data-driven applications that solve real operational problems.
+## 🤝 Let's Connect
+
+I'm interested in opportunities and collaborations around **Data Analytics, Business Intelligence, Business Analysis and Automation**.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan_Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karan-singh-17263939b/)
+[![GitHub](https://img.shields.io/badge/GitHub-karansinghcloud-181717?style=for-the-badge&logo=github)](https://github.com/karansinghcloud)
+[![Email](https://img.shields.io/badge/Email-karansinghcloud%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karansinghcloud@gmail.com)
+
+**Building with Data. Improving with Technology.**
+
+</div>

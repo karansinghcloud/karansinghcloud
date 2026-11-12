@@ -1,254 +1,175 @@
-# 📊 Data Analytics Portfolio Projects
+# 👋 Hi, I'm Karan Singh
 
-## 🚀 Tech Stack
+### Interior Designer | Construction Technology Enthusiast | 3D Visualization Specialist
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/MICROSOFT_EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/GOOGLE_SHEETS-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge)
-![Looker Studio](https://img.shields.io/badge/LOOKER_STUDIO-4285F4?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)
+I work at the intersection of **Interior Design, Architecture, Construction Management, and Technology**.
+
+My work focuses on creating functional and aesthetically refined spaces, developing architectural visualizations, and exploring technology-driven solutions for construction planning, project coordination, and operational management.
+
+I also work with data analytics and software development to build practical tools, dashboards, and workflow management systems for the construction and design industry.
 
 ---
 
-## 👨‍💻 About
+## 💫 About Me
 
-Welcome to my **Data Analytics Portfolio**.
+- 🏠 **Profession:** Interior Designer
+- 🏢 **Organization:** Manikaran Designs
+- 🎨 **Design Focus:** Residential & Commercial Interior Design, Space Planning, 3D Visualization and Architectural Detailing.
+- 🏗️ **Construction Technology:** ERP Systems, Drawing Coordination, Project Management and Workflow Automation.
+- 📊 **Data & Analytics:** SQL, Advanced Excel, Power BI, Tableau and Looker Studio.
+- 💻 **Development Interests:** Construction Management Applications, Process Automation and Database-Driven Systems.
 
-I am **Karan Singh**, a **Business Cum Data Analyst at BDR Group**, working on business intelligence, SQL analytics, dashboard automation, and construction ERP reporting.
+🔭 **Currently Working On:** Exploring technology-driven solutions for interior design and construction management, including ERP workflows, drawing coordination, project tracking and operational reporting.
 
-This portfolio showcases projects demonstrating my ability to:
+🤝 **Looking to Collaborate On:** Interior design projects, architectural visualization, construction technology, project management systems and innovative design workflows.
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Advanced SQL
-- Dashboard Development
-- Business Intelligence
-- Excel & Google Sheets Automation
-- Python Data Analytics
-- KPI Reporting
-- Construction ERP Analytics
-- AI-Powered Business Solutions
+🌱 **Currently Exploring:** Advanced architectural visualization, construction automation, workflow management systems and AI-assisted design processes.
 
-My goal is to convert raw business data into actionable insights that improve operational efficiency and decision-making.
+⚡ **Ask Me About:** Interior Design, Space Planning, AutoCAD Drafting, 3D Visualization, Construction Workflows, Drawing Coordination and Construction Analytics.
+
+🔥 **My Approach:** Combining creativity, technical understanding and analytical thinking to solve real-world design and construction challenges.
 
 ---
 
-# 📚 Table of Contents
+## 🏗️ Featured Projects
 
-## 📌 Live Projects
+### 1. Construction ERP Analytics System
+**SQL | Advanced Excel | Tableau**
 
-### 1️⃣ Ola Ride Analytics
-🔗 https://github.com/karansinghcloud/Ola-Data-Analytics
+- Designed a 20-table ERP-style data model covering projects, procurement, vendors, inventory, manpower, budgets and operational KPIs.
+- Used SQL and Excel for data organization and analysis.
+- Developed Tableau visual reports to monitor construction operations and project performance.
 
-- SQL Analysis
-- Power BI Dashboard
-- Ride Success Rate
-- Cancellation Analysis
-- Revenue KPIs
+### 2. ANUBIS – Construction ERP & Workflow Management System
+**Google Apps Script | Google Sheets | JavaScript**
 
----
+- Developed an integrated construction workflow management application.
+- Covered projects, tasks, issues, drawing requests, vendors, approvals and document tracking.
+- Structured operational records and connected workflows to improve project visibility, work tracking and reporting.
 
-### 2️⃣ Netflix Movies & Genre Trends Analysis
-🔗 https://github.com/karansinghcloud/Netflix-Movies-Data-Analysis-Python-Pandas-Seaborn-
+### 3. Court Order Manager
+**Python | FastAPI | React | TypeScript | PostgreSQL**
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- EDA
+- Developed a local case and court-order management application.
+- Organized case records, document imports and information retrieval.
+- Designed database-backed document management workflows with search, duplicate detection and archival functionality.
 
----
+*Development project – not yet fully verified.*
 
-## 🚧 Upcoming Projects
+### 4. DrawCore – Drawing Coordination MVP
+**Node.js | Prisma | SQLite**
 
-### 3️⃣ Construction ERP Analytics (BDR Group)
-📌 Coming Soon
+- Built a drawing coordination application supporting PDF and image imports.
+- Implemented trade-wise annotation layers and vendor work assignments.
+- Developed drawing record management, normalized coordinates and data persistence for construction workflows.
 
-- Advanced SQL
-- Procurement Analytics
-- Vendor Performance
-- Budget Tracking
-- Material Management
-- Construction KPIs
+### 5. Ola Rides Data Analysis
+**SQL | Power BI**
 
----
+- Analyzed ride-booking data to identify booking trends, cancellations, vehicle performance, revenue patterns and customer ratings.
+- Developed analytical dashboards to monitor ride volume, booking status and operational performance.
 
-### 4️⃣ E-Commerce Product & Sales Analytics
-📌 Coming Soon
+### 6. E-Commerce Product & Sales Data Analysis
+**Google Sheets | Pivot Tables | Looker Studio**
 
-- Google Sheets
-- Looker Studio
-- Sales Dashboard
-- Product Analysis
-- Order Tracking
+- Analyzed e-commerce order lifecycle, product demand, sales trends and state-wise performance.
+- Developed interactive dashboards to visualize product performance and order-related insights.
 
----
+### 7. Netflix Movies & Genre Trends Analysis
+**Python | Pandas | NumPy | Matplotlib | Seaborn**
 
-### 5️⃣ HR & Employee Analytics Dashboard
-📌 Coming Soon
-
-- SQL
-- Power BI
-- Attrition Analysis
-- Employee KPIs
+- Performed exploratory data analysis on 9,000+ movie records.
+- Applied data cleaning, feature analysis and visualization.
+- Examined genre popularity, ratings and release-year trends.
 
 ---
 
-### 6️⃣ Supply Chain & Inventory Analytics
-📌 Coming Soon
+## 🎨 Interior Design & Architecture Expertise
 
-- Inventory Management
-- Procurement Analytics
-- Vendor Analytics
-- Delivery Tracking
-
----
-
-### 7️⃣ Business Intelligence Dashboard
-📌 Coming Soon
-
-- Executive Dashboard
-- KPI Monitoring
-- Business Reporting
+- Residential Interior Design
+- Commercial Interior Design
+- Space Planning & Layout Development
+- Architectural Drafting
+- 2D Working Drawings
+- 3D Modeling & Visualization
+- Material & Finish Selection
+- Furniture and Modular Design
+- Construction Drawing Coordination
+- Design Development & Detailing
 
 ---
 
-### 8️⃣ SQL Case Study Collection
-📌 Coming Soon
+## 🧰 Tools & Technologies
 
-- Joins
-- CTEs
-- Window Functions
-- Subqueries
-- Ranking Functions
+### 🎨 Design & Architectural Visualization
 
----
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white)
+![V-Ray](https://img.shields.io/badge/V--Ray-4B5563?style=for-the-badge&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### 9️⃣ Excel Automation Projects
-📌 Coming Soon
+### 🏗️ Construction & Project Management Technology
 
-- Dynamic Dashboards
-- Pivot Tables
-- Power Query
-- VBA Basics
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
----
+### 📊 Data Analytics & Business Intelligence
 
-### 🔟 AI Business Analytics Projects
-📌 Coming Soon
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
-- AI Agents
-- Business Automation
-- Data Processing
-- Reporting Automation
+### 💻 Development & Database Technologies
 
----
-
-# 🏗 Professional Experience
-
-## Business Cum Data Analyst
-### BDR Group
-
-### Working On
-
-- Business Analytics
-- Advanced SQL
-- Dashboard Automation
-- Procurement Analytics
-- Construction ERP
-- Budget Monitoring
-- KPI Reporting
-- Vendor Performance
-- Material Tracking
-- Project Planning
-- Excel Automation
-- Google Sheets Automation
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 🎯 Core Skills
+## 📂 Portfolio Categories
 
-### Programming
-
-- SQL
-- Python
-
-### Analytics
-
-- Data Analysis
-- Data Cleaning
-- EDA
-- Statistics
-
-### BI Tools
-
-- Power BI
-- Looker Studio
-- Tableau
-
-### Spreadsheet
-
-- Excel
-- Google Sheets
-- Power Query
-
-### Cloud
-
-- AWS
-- GCP
-
-### Databases
-
-- MySQL
-- PostgreSQL
-
-### Business
-
-- KPI Tracking
-- Dashboarding
-- Automation
-- Data Storytelling
+| Category | Work |
+|---|---|
+| Interior Design | Residential & Commercial Interiors |
+| Architectural Visualization | 3D Modeling & Rendering |
+| Construction Technology | ANUBIS ERP & DrawCore |
+| Construction Analytics | ERP Analytics System |
+| Business Intelligence | Power BI, Tableau & Looker Studio |
+| Data Analytics | Ola, E-Commerce & Netflix |
+| Software Development | Court Order Manager |
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-### LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-singh-17263939b/)
 
-https://www.linkedin.com/in/karan-singh-17263939b/
-
-### GitHub
-
-https://github.com/karansinghcloud
-
-### Email
-
-karansinghcloud@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urwillrana345@gmail.com)
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=karansinghcloud&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_INTERIOR_GITHUB_USERNAME&theme=dark&hide_border=true&show_icons=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=karansinghcloud&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karansinghcloud&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_INTERIOR_GITHUB_USERNAME&theme=dark&hide_border=true&layout=compact)
 
 ---
 
-## 📢 Portfolio Vision
+### 🏢 Manikaran Designs
 
-> Building practical, business-focused analytics solutions using SQL, Python, Power BI, Excel, and AI to solve real-world problems.
+**Designing Spaces. Developing Solutions. Building Better Workflows.**
 
----
-
-### ⭐ If you like my work, don't forget to Star the repositories.
